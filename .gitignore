@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+build/
+dist/
+target/
+
+# Local Python environments and caches
+.venv/
+.venv-*/
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Environment files
+.env
+.env.*
